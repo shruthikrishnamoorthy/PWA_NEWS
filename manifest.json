@@ -1,0 +1,11 @@
+{
+    "name": "news_pwa",
+    "short_name": "news",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "Scope": "/",
+    "start_url": ".",
+    
+    "splash_pages": null
+  }
